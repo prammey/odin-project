@@ -1,0 +1,23 @@
+p {
+    font-family: "Verdana";
+    background-color: #FEA7A7;
+}
+
+.basic {
+    font-size: 18px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #80FF80;
+}
